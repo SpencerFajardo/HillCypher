@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"HillCypherMethods","l":"HillCypher"},{"p":"HillCypherMethods","l":"HillCypherJUnit"},{"p":"HillCypherMethods","l":"Matrix"},{"p":"HillCypherMethods","l":"MatrixJUnit"}]
